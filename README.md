@@ -19,4 +19,4 @@ Machine Learning → Supervised Learning → Classification OR Regression:
 - Software: Visual Studio Code, Jupyter Lab
 - Languages: Python
 - Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
-- Data Sources: Loan Data: data/LoanStats_2019Q1.csv.zip
+- Data Sources: Loan Data: ![](LoanStats_2019Q1.csv.zip)
