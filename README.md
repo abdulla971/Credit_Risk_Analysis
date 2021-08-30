@@ -11,4 +11,12 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 Machine Learning → Supervised Learning → Classification OR Regression:
 
 — Classification predicts the CATEGORY that data belongs to.
+
 — Regression predicts a NUMERICAL value based on previously observed data.
+
+### Resources
+
+- Software: Visual Studio Code, Jupyter Lab
+- Languages: Python
+- Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn
+- Data Sources: Loan Data: data/LoanStats_2019Q1.csv.zip
